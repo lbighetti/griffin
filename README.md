@@ -42,7 +42,7 @@ The project was developed using the following versions:
 ## Running tests
 
 To run tests simply do:
-- lein test
+- `lein test`
 
 ## Reasoning and notes
 
