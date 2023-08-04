@@ -60,3 +60,4 @@ Overal, I:
     - I know Leiningen is not required, but it is a well estabilished tool and seemed reasonable to use it.
     - It was a good experience and easy jump for me as it's quite similar to elixir's mix tool (mix was indeed largely inspired and influenced by Leiningen)
 - Used `s/valid?` to check if my assembled datastructures followed the spec corretly and `s/explain` to debug issues.
+- Please note I considered commit / PR higiene out of scope for the sake of simplicity and time. In a real production app I would have followed proper commit / PR / PR review best practices.
